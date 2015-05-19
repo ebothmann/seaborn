@@ -359,11 +359,11 @@ def plotting_context(context=None, font_scale=1, rc=None):
 
             "font.size": 12,
             "figure.figsize": np.array([8, 5.5]),
-            "axes.labelsize": 11,
-            "axes.titlesize": 12,
+            "axes.labelsize": 12,
+            "axes.titlesize": 14,
             "xtick.labelsize": 10,
             "ytick.labelsize": 10,
-            "legend.fontsize": 10,
+            "legend.fontsize": 12,
 
             "grid.linewidth": 1,
             "lines.linewidth": 1.75,
