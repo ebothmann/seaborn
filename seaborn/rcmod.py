@@ -361,8 +361,8 @@ def plotting_context(context=None, font_scale=1, rc=None):
             "figure.figsize": np.array([8, 5.5]),
             "axes.labelsize": 12,
             "axes.titlesize": 14,
-            "xtick.labelsize": 10,
-            "ytick.labelsize": 10,
+            "xtick.labelsize": 12,
+            "ytick.labelsize": 12,
             "legend.fontsize": 12,
 
             "grid.linewidth": 1,
